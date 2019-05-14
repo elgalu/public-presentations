@@ -42,6 +42,7 @@
 * [2017-05-18 Berlin Kubernetes Meetup: From AWS/STUPS to Kubernetes on AWS at Zalando](https://www.slideshare.net/try_except_/from-awsstups-to-kubernetes-on-aws-zalando-berlin-kubernetes-meetup)
 * [2017-05-09 Berlin AWS User Group: Kubernetes on AWS at Zalando](https://www.slideshare.net/try_except_/kubernetes-on-aws-zalando-berlin-aws-user-group-20170509)
 * [2017-04-13 CNCF End User Committee: Kubernetes at Zalando](https://www.slideshare.net/try_except_/kubernetes-at-zalando-cncf-end-user-committee-presentation)
+* [2017-04-06 "Zalenium: Use A Disposable And Flexible Selenium Grid Infrastructure" on YouTube](https://www.youtube.com/watch?v=W5qMsVrob6I)
 * [2017-04-03 "Kubernetes on AWS at Europe’s Leading Online Fashion Platform” on YouTube](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
 * [2017-03-27 Kubernetes on AWS at Europe's Leading Online Fashion Platform](https://www.slideshare.net/try_except_/kubernetes-on-aws-at-europes-leading-online-fashion-platform)
 
